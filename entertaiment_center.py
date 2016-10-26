@@ -2,7 +2,7 @@ import fresh_tomatoes
 from movie import Movie
 
 """Create a list of movie instances.
-Then just pass this list to fresh_pomatoes and it will handle it.
+Then just pass this list to fresh_tomatoes and it will handle it.
 """
 
 toy_story = Movie("Toy Story",
